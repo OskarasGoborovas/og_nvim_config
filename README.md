@@ -2,7 +2,7 @@
 
 <h1>Requirements</h1>
 	<a href="https://neovim.io/">Neovim</a><br>
-	<a href="https://github.com/junegunn/vim-plug">Vim-Plug</a>
+	<a href="https://github.com/junegunn/vim-plug">Vim-Plug</a><br>
 	<a href="https://www.lua.org/">Lua</a>
 
 <h1>Getting started</h1><br>
