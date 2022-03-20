@@ -1,4 +1,4 @@
-# og_nvim_config
+# og_nvim_lua_config
 
 <h1>Requirements</h1>
 	<a href="https://neovim.io/">Neovim</a><br>
